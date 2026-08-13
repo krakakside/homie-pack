@@ -1,8 +1,0 @@
-# Common configuration settings
-[common]
-	# If true, lava buckets can be enchanted too 
-	infinite_lava_bucket = true
-	# If true, milk buckets can be enchanted too 
-	infinite_milk_bucket = true
-	# If true, powdered snow buckets can be enchanted too 
-	infinite_solid_bucket = true
