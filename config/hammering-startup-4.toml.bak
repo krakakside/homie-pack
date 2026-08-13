@@ -1,0 +1,7 @@
+[general]
+	#If true, sorts all the mod's items into a creative tab.
+	showTab = false
+
+[tools]
+	#Durability modifier of all hammer items from this mod.
+	hammerDurabilityMultiplier = 2.5

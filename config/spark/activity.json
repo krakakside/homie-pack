@@ -1,0 +1,248 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786550125118,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Au60JFv1db"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786543066429,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DiZ0N0slHI"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786542360139,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qv0KEWUB1b"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786465517484,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XPgfFfjovL"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786465137835,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/xQFxrHVIOp"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786464882954,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/m9oJNApPdq"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786464756080,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/nxUu5sHRtj"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786045181137,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CEKKgHgyYN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786044717669,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dNBbmvObt8"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786038218165,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fAwddbuPya"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786037848112,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MICnBZFMVK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kraka47",
+      "uniqueId": "ab4efea8-40fa-3b7e-8d7f-93cc9b3f1fd1"
+    },
+    "time": 1786037234756,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/yyjVLfbByV"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786035436152,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sOF8ajD54j"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786034446200,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2JIx1F5weL"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786034304382,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Jrgk2o3JLa"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786033560784,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vPogvJRQJd"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786033021199,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/n6wSguFhVg"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1786032895415,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/43Pj5P3YsD"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1785948012201,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1OA2EmYYU6"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "Server"
+    },
+    "time": 1785947106828,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HxO4vxmHBM"
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[enchantments]
+	#Radius of AreaMine (or Hammering).
+	areaMineRadius = 1
+	#Increase of depth of AreaMine (or Hammering) per enchantment level.
+	areaMineDepthPerLevel = 1
+	#Efficiency modifier when using AreaMine (or Hammering).
+	areaMineEfficiencyDebuff = 0.96

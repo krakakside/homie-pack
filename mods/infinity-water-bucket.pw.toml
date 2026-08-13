@@ -1,0 +1,13 @@
+name = "Infinity Water Bucket"
+filename = "Infinity-Water-Bucket-NeoForge-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3093a63d5999ee2263ca77820bf746eba0d10fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5924341
+project-id = 423069

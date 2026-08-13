@@ -1,0 +1,13 @@
+name = "Tough As Nails Create Addon"
+filename = "tanca-0.0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e76ebb44d2aaec321556a4777679a8d9e68e5b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8089017
+project-id = 1432726

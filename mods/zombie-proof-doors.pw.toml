@@ -1,0 +1,13 @@
+name = "Zombie Proof Doors"
+filename = "zombieproofdoors-1.21.1-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cf1d7eb6d1ded7dbbac892224889c248e356a8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6184667
+project-id = 390741

@@ -1,0 +1,13 @@
+name = "Crafting Recipes For Create"
+filename = "Recipes For Create-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a3de9f502851f20fca540f9abc8e06d3ae642e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6616276
+project-id = 966843

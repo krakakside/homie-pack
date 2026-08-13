@@ -1,0 +1,13 @@
+name = "Stacked Blocks: Farmer's Delight"
+filename = "stackedblocksfarmersdelight-25.02.13-1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab4e2cb787943ed83b4a8805c0052e8a573bcc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6189988
+project-id = 1171176

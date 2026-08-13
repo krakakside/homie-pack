@@ -1,0 +1,13 @@
+name = "Rain should extinguish campfires"
+filename = "rsec-neoforge-1.21.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efeac464b140515ff2e6c60d3126cac7f5fdf1ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5838060
+project-id = 959784

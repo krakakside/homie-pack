@@ -1,0 +1,13 @@
+name = "[Archived] Hammering"
+filename = "hammering-3.2.1+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "462e9fae25cfb326b8026880c34cf6afca147222"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6479627
+project-id = 1136760

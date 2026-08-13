@@ -1,0 +1,13 @@
+name = "JEI / REI / EMI WorldGen"
+filename = "jeiworldgen-neoforge-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78a7f2f7ade1f32ab471238a22136429a93b23c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8440581
+project-id = 1509527

@@ -1,0 +1,13 @@
+name = "World Height 2032 (Unoficcial Port)"
+filename = "2032-world-height-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e5e687b1fe50f3fc47d6abdd2167dd8d5abe344"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7837252
+project-id = 1498721

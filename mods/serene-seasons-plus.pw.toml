@@ -1,0 +1,13 @@
+name = "Serene Seasons Plus"
+filename = "NeoForge-Version-Serene Seasons Plus-1.21.1-5.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62bc9cd9cc9110719ea7fb852626c96f386820aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8238082
+project-id = 1288843
