@@ -5,6 +5,10 @@ file = "[1] UPDATE PACKWIZ.bat"
 hash = "cd7c8b781c8f8849bd4aac47483b42a180be9a1b280380da674c551f3a867ee9"
 
 [[files]]
+file = "ignoreeasy.packwizignore"
+hash = "2b9d13361c3c96bbbacbafb7a4c9f8ecde27fb5282a182e90e349750709800bb"
+
+[[files]]
 file = "mods/2032-world-height-1.1.jar"
 hash = "51658d250f6c2154108e0a07f0c9d45741e714164fadc9d118bd71584b09adb4"
 
