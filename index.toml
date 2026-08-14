@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "[1] UPDATE PACKWIZ.bat"
+hash = "cd7c8b781c8f8849bd4aac47483b42a180be9a1b280380da674c551f3a867ee9"
+
+[[files]]
 file = "mods/2032-world-height-1.1.jar"
 hash = "51658d250f6c2154108e0a07f0c9d45741e714164fadc9d118bd71584b09adb4"
 
@@ -453,10 +457,6 @@ file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar"
 hash = "d8608e105a084e38ee86f01056f00a92db7fd3e480d8ad4f72d25c8b97e71248"
 
 [[files]]
-file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
-hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
-
-[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.5.8.jar"
 hash = "467a03769cb981d57f3deff07f65625849a56949e84191e4d4e11ae91d2753ee"
 
@@ -667,10 +667,6 @@ hash = "e5c045ba50c4f7dd6e1e0b7f08848aecd80e26845527065f5adfd5f2eae9e0b4"
 [[files]]
 file = "mods/effortlessbuilding-4.2+1.21.1.jar"
 hash = "1fedbc3f6866541a96da24e75649ca5f9599b37e15a0b32a9c920ac3dbcf5f90"
-
-[[files]]
-file = "mods/elytraslot-neoforge-9.0.2+1.21.1.jar"
-hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
 
 [[files]]
 file = "mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
