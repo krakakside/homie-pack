@@ -29,6 +29,22 @@ file = "mods/AngryMobs-1.21.1-7.1.2.jar"
 hash = "b2c774a197c00ad224247cd4ee18f8f5567fded7d9f15f4b429b2342bbeea138"
 
 [[files]]
+file = "mods/Apotheosis-1.21.1-8.7.0.jar"
+hash = "7309165a2096f441a5b042836616b98ec260e2d8631e85774279dbad3b1982b7"
+
+[[files]]
+file = "mods/ApothicAttributes-1.21.1-2.10.1.jar"
+hash = "7f84ee803e9d4fef2858db28f552724dc0ea6c3943db111cc947d70aa2c9c159"
+
+[[files]]
+file = "mods/ApothicEnchanting-1.21.1-1.6.0.jar"
+hash = "1003b0358282cd8bbb509273821371b92aa3671910de8eccb2fbe8064efb7180"
+
+[[files]]
+file = "mods/ApothicSpawners-1.21.1-1.4.0.jar"
+hash = "f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe"
+
+[[files]]
 file = "mods/AxesAreWeapons-1.10.2-neoforge-1.21.jar"
 hash = "665cae05ddc3f822ef677829dbca928e0f3f7707f1b1cd33b9fb735e2f18f16b"
 
@@ -189,6 +205,10 @@ file = "mods/KotlinLangForge-2.12.2-k2.4.10-3.0+neoforge.jar"
 hash = "fba0188f1998a894f49f43fd718910dea97aa11c3a4b9553f5d0ba0767354d93"
 
 [[files]]
+file = "mods/MaidTaskScroll_1.0.1-neoforge_21.1.206-1.21.1.jar"
+hash = "e3ffca5b47143c3ec720afd970d3783bdedcac6432a3e7f8525014523b66a21b"
+
+[[files]]
 file = "mods/MoogsEndStructures-1.21-2.0.3.jar"
 hash = "6dd403739a473c38aa2a6660dc4891be1525743f5e7be0cf4c25b93b4491b4ea"
 
@@ -239,6 +259,10 @@ hash = "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
 [[files]]
 file = "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar"
 hash = "c0becabbb2d45c254e959d3a26a0237dacdfccb7cde85de98c4b863057e842ff"
+
+[[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
 
 [[files]]
 file = "mods/Placebo-1.21.1-9.9.2.jar"
@@ -391,6 +415,18 @@ hash = "c50ad7bfac735602e14c430793a80eafbc9c7001f7382bb23c2980379c04760f"
 [[files]]
 file = "mods/almostunified-neoforge-1.21.1-1.4.2.jar"
 hash = "65202adf4dccf7b3033537e539e23eccc541c6a15ad88d87fa1c5a09ceb3359f"
+
+[[files]]
+file = "mods/apotheosis_balance-1.21.1-2.0.0.jar"
+hash = "6f52a8ba0b808202c825805c6daea3868bf0fb9c0dd3f5b7a29cbb2ac227412d"
+
+[[files]]
+file = "mods/apothic_category_compat-2.1.0.jar"
+hash = "8b22c2db844b256cfae0a630fe11099d1b6f58c2aa54b9042c1cf82584b5db76"
+
+[[files]]
+file = "mods/apothiccombat-1.2.1.jar"
+hash = "6b3e34193896b6fea997110c08023f23684ae782ad44e2a7928c274e57b4fff1"
 
 [[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
@@ -581,6 +617,10 @@ file = "mods/createframed-1.21.1-1.8.2.jar"
 hash = "a1f0434f5485de5ba5683320ebca7b71841488421a5249641ae357dbeeb35283"
 
 [[files]]
+file = "mods/createimmersivetacz-1.6-neoforge.jar"
+hash = "605769e743bfe1fa30f29244ba52b56af8c648caa1a2f41fa78db200d701d0d0"
+
+[[files]]
 file = "mods/createliquidfuel-2.1.1-1.21.1.jar"
 hash = "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d"
 
@@ -623,6 +663,10 @@ hash = "6cea20b8318ea7c4cfcebb30a90b2e52ad91a457051b285b1ef02c5c00f08be8"
 [[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/curios_for_ammo_box-1.21.1-1.2.0.jar"
+hash = "80baab113fe5c25eb5e317dc607140b25ac55f59c4512604be5ad16ad6e7837a"
 
 [[files]]
 file = "mods/deep_aether-1.21.1-1.1.5.1.jar"
@@ -801,6 +845,10 @@ file = "mods/getittogetherdrops-neoforge-1.21.5-1.4.jar"
 hash = "a09466d03e3dde0c0f5c179146a8247b33a720a88979eb813c5f2aa2ad1c7a78"
 
 [[files]]
+file = "mods/glore-1.21.x-1.4.1.jar"
+hash = "336fbc06f08be654b891a2215b655581ce9122a97085856da5d44378be57859b"
+
+[[files]]
 file = "mods/grabbymobs-1.21.1-1.6.jar"
 hash = "23c82c2f9fb92253e99c018f531abe6013b099fb4e5c3e0979cf264c143e0e07"
 
@@ -815,6 +863,10 @@ hash = "7c187eeaa56ac65d2ffd6f350c57ff98fe0f680ae23490d87882e22653a53765"
 [[files]]
 file = "mods/grind-enchantments-4.0.1+neoforge-1.21.1.jar"
 hash = "e69e677570df1e655532beddf9269368b420a150254b8d83910e0ed317466262"
+
+[[files]]
+file = "mods/gundb-1.21.1-2.1.0.jar"
+hash = "c417f26b5a1a68ff2b8792033b23778730986761932d21ab85730038907af487"
 
 [[files]]
 file = "mods/hammering-3.2.1+mc1.21.1-neoforge.jar"
@@ -959,6 +1011,10 @@ hash = "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
 [[files]]
 file = "mods/lukis-crazy-chambers-1.0.3.jar"
 hash = "3f6b99ba679cb7710cced4cab405597b5692dea345026d3f722a0a7c77566444"
+
+[[files]]
+file = "mods/maidsoulkitchen-1.21.1-beta-v0.1.4.jar"
+hash = "311718144f170cc359f7d8b07fae67813eecd24c2fd1253621e10261bcbd672c"
 
 [[files]]
 file = "mods/medieval_buildings-1.21.1-1.1.1-neoforge.jar"
@@ -1201,6 +1257,14 @@ file = "mods/t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
 hash = "04e3a5f6e9aa83b2f305e836ed6bceb656c7a6cae8d945415fd8d55bc2450696"
 
 [[files]]
+file = "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
+hash = "58f6ab47c59218bdb10bb9eee1905b6cd27f3bc98d4af13982a6002a99b1d3e7"
+
+[[files]]
+file = "mods/tacz-pack-upgrader-2.1.3.jar"
+hash = "58d326d6c4924f4a1e8e16341b0973c9d361276adb4f2ca522d87c0b0a0f5473"
+
+[[files]]
 file = "mods/tan-compat-pack-1.0.0.jar"
 hash = "763de0c4e652bac0df29fdc8e44123886cdab802ad1e48451f31aac46480dc2d"
 
@@ -1227,6 +1291,10 @@ hash = "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
 [[files]]
 file = "mods/tough-as-nails-vanilla-pack-1.0.0.jar"
 hash = "d09f074710578c6516ea092fc8155717bb65c698c7dca29ecd5e25cf30fc74f7"
+
+[[files]]
+file = "mods/touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar"
+hash = "f6db04195820c8508704277ea76d63723804ff236a7b780369ba59ebe5cd9c27"
 
 [[files]]
 file = "mods/trading_floor-3.0.16.jar"
