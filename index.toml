@@ -493,10 +493,6 @@ file = "mods/bowinfinityfix-1.21-neo-3.1.1.jar"
 hash = "27bce1f3a7d88887e05f8bfcfc17d523a8cc85b1001efca62577a8fa37e366ca"
 
 [[files]]
-file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.116.jar"
-hash = "d8608e105a084e38ee86f01056f00a92db7fd3e480d8ad4f72d25c8b97e71248"
-
-[[files]]
 file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
 hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
 
@@ -527,10 +523,6 @@ hash = "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
 [[files]]
 file = "mods/cookyourfood--mc1.21--neoforge--1.12.jar"
 hash = "9ee7b5538e0b7901c334bce116348c2915fa0fa4a0995743232bda444712d56b"
-
-[[files]]
-file = "mods/crashexploitfixer-neoforge-2.0.0+1.21.4.jar"
-hash = "32c7be498962d54b28dfb902c1509596442048a3ae72bd3f7884ab853d0e4464"
 
 [[files]]
 file = "mods/create-1.21.1-6.0.10.jar"
@@ -969,16 +961,8 @@ file = "mods/leafmealone-1.1.0.jar"
 hash = "f6548ae3d40a1ffd68039ccf2b21343cb5d0e7a861f5c82bb710887ae185f6ac"
 
 [[files]]
-file = "mods/letmedespawn-1.21.x-neoforge-1.5.0.jar"
-hash = "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a"
-
-[[files]]
 file = "mods/libraryferret-neoforge-1.21.1-4.0.0.jar"
 hash = "fcc7cbe7ec7d2e5bce6a9d24c14d94bc27a577c293311077476e5f43937be1a2"
-
-[[files]]
-file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
-hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
 file = "mods/lithostitched-1.7.13-neoforge-21.1.jar"
@@ -987,10 +971,6 @@ hash = "a90b1d485b138328ceaa156b7897b0829eb1ee1522b997870a53129ae65e5512"
 [[files]]
 file = "mods/lmft-1.1.1+1.21.9-neoforge.jar"
 hash = "932765aae037197e8acfe7a90d9e473b143e3e785655c24c02b30c7013cd4458"
-
-[[files]]
-file = "mods/logbegone-neoforge-1.21.1-1.0.3.jar"
-hash = "0ee3005ffa553aed37a313ad43dd5947080c45bcbaa8ed8cd4e00342321ff6a9"
 
 [[files]]
 file = "mods/lootjs-neoforge-1.21.1-3.7.0.jar"
@@ -1049,10 +1029,6 @@ file = "mods/moredelight-26.05.20a-1.21-neoforge.jar"
 hash = "7b261107157f8fc3273bf75707dbf4b32e3f7d4c1ca116f4bad8b45984ccd83a"
 
 [[files]]
-file = "mods/naturallychargedcreepers-1.21.1-3.6.jar"
-hash = "608d0f83cc80bace2453fd7ab157b603f1df75d4b94f7b10cdbb68b1cda0612f"
-
-[[files]]
 file = "mods/nether-gold-ore-drops-raw-gold-1.3.jar"
 hash = "1db511db7591a49514ab86225ebf146e496fbe46eeecac3a19b70145d915d33c"
 
@@ -1083,10 +1059,6 @@ hash = "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f"
 [[files]]
 file = "mods/notimeout-1.21.1-1.0.0.jar"
 hash = "44b0e4f0b1ecf9affa8ecec38ee3425e3c1665596c110f8b1a0f20875c200f33"
-
-[[files]]
-file = "mods/observable-5.4.4.jar"
-hash = "f344b47b58f4fd48d1aa95ee4d5c16252b5e5bd39f829fabc96b27097202d2e5"
 
 [[files]]
 file = "mods/overbalanced-1.jar"
