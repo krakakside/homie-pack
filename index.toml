@@ -717,10 +717,6 @@ file = "mods/effortlessbuilding-4.2+1.21.1.jar"
 hash = "1fedbc3f6866541a96da24e75649ca5f9599b37e15a0b32a9c920ac3dbcf5f90"
 
 [[files]]
-file = "mods/elytraslot-neoforge-9.0.2+1.21.1.jar"
-hash = "d86adf384390c40b144a296ef4fc11b72fd81e2780b264bd9ceb7b5ab9147399"
-
-[[files]]
 file = "mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
 hash = "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16"
 
