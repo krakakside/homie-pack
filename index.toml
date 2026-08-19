@@ -401,10 +401,6 @@ file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
 
 [[files]]
-file = "mods/accessories_compat_layer-neoforge-0.1.12+1.21.1.jar"
-hash = "d9b673ebc4766a59663e4cc73d50e0ff3a371334e599c7890941e6e0bdd286ae"
-
-[[files]]
 file = "mods/almostunified-neoforge-1.21.1-1.4.2.jar"
 hash = "65202adf4dccf7b3033537e539e23eccc541c6a15ad88d87fa1c5a09ceb3359f"
 
