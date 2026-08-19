@@ -13,20 +13,12 @@ file = "mods/2032-world-height-1.1.jar"
 hash = "51658d250f6c2154108e0a07f0c9d45741e714164fadc9d118bd71584b09adb4"
 
 [[files]]
-file = "mods/AetherVillages-1.21.1-1.0.8-neoforge.jar"
-hash = "9f9837ec289bdcd016b0386374e7507503a5a7d78fb4941ac74cb44cad15cc34"
-
-[[files]]
 file = "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar"
 hash = "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
 
 [[files]]
 file = "mods/Amplified_Nether_26.2_v1.2.16.jar"
 hash = "fc49dc7f0b9e4cef665e60a97f29b5589025fb9e19b13222d9767e178093eaed"
-
-[[files]]
-file = "mods/AngryMobs-1.21.1-7.1.2.jar"
-hash = "b2c774a197c00ad224247cd4ee18f8f5567fded7d9f15f4b429b2342bbeea138"
 
 [[files]]
 file = "mods/Apotheosis-1.21.1-8.7.0.jar"
@@ -401,18 +393,6 @@ file = "mods/abridged-2.0.2-neoforge-21.1.jar"
 hash = "e346909876d72c9f14b5b9dcd4a3653fa850cac5b45be8a94fc222079fe2710d"
 
 [[files]]
-file = "mods/aether-1.21.1-1.5.10-neoforge.jar"
-hash = "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8"
-
-[[files]]
-file = "mods/aether_emissivity-1.21.1-1.0.2-neoforge.jar"
-hash = "f0e27cf63f14fba505e43783dc698b8c4b0089c0459ef2448f82925e0108e9e6"
-
-[[files]]
-file = "mods/aether_enhanced_extinguishing-1.21.1-1.0.0-neoforge.jar"
-hash = "c50ad7bfac735602e14c430793a80eafbc9c7001f7382bb23c2980379c04760f"
-
-[[files]]
 file = "mods/almostunified-neoforge-1.21.1-1.4.2.jar"
 hash = "65202adf4dccf7b3033537e539e23eccc541c6a15ad88d87fa1c5a09ceb3359f"
 
@@ -629,10 +609,6 @@ file = "mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
 hash = "cac002b0fb77ec1dd48cf76a07dd5f2341b632788e1add768cf5c555823e4b38"
 
 [[files]]
-file = "mods/createultimine-1.21.1-neoforge-1.3.2.jar"
-hash = "96feb5f37da16dd41e2f547576da72941c664aa5bae3a6618621404c783522fb"
-
-[[files]]
 file = "mods/cristellib-neoforge-1.21.1-3.1.7.jar"
 hash = "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38"
 
@@ -655,10 +631,6 @@ hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 [[files]]
 file = "mods/curios_for_ammo_box-1.21.1-1.2.0.jar"
 hash = "80baab113fe5c25eb5e317dc607140b25ac55f59c4512604be5ad16ad6e7837a"
-
-[[files]]
-file = "mods/deep_aether-1.21.1-1.1.5.1.jar"
-hash = "0f55ad970715bb933344e785b2c35a7354dfba25ffd426c0b68921d08bbe0ce5"
 
 [[files]]
 file = "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
@@ -737,10 +709,6 @@ file = "mods/expandeddelight-0.1.4.jar"
 hash = "35e9f833432a7a7d25c24e85289a6f58e2cbe2e1cf43b9c0cfef7d5752d04394"
 
 [[files]]
-file = "mods/explore_ruins_aether-1.0.0-neoforge-1.21.1.jar"
-hash = "4fc02d88511e580e9660d96adec4f317fae4cb61b1702e7475df3c26b1f9cb99"
-
-[[files]]
 file = "mods/farmers-cutting-betternether-1.21.1-1.0-neoforge.jar"
 hash = "ffe92d24649efd961547a478ca6efcf6d6af8f225ec38b458fba1806011dffb5"
 
@@ -799,14 +767,6 @@ hash = "a9f196053c2a7706d7ce938cfa27b80299755898c58e585c2d8a25050ad98808"
 [[files]]
 file = "mods/formationsoverworld-1.0.5a-mc1.21+.jar"
 hash = "276498dcf0f900d21f325361d8da1c00b827042691c07cfcf204297e6653fa76"
-
-[[files]]
-file = "mods/ftb-library-neoforge-2101.1.33.jar"
-hash = "6e8f7b57f243caf5cbb2c80387924df7b555b98d0fc6e1e575d4b5d74f5ff2e2"
-
-[[files]]
-file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
-hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
 
 [[files]]
 file = "mods/functionalarmortrim-neoforge-1.21-1.jar"
