@@ -817,8 +817,8 @@ file = "mods/grind-enchantments-4.0.1+neoforge-1.21.1.jar"
 hash = "e69e677570df1e655532beddf9269368b420a150254b8d83910e0ed317466262"
 
 [[files]]
-file = "mods/gundb-1.21.1-2.1.0.jar"
-hash = "c417f26b5a1a68ff2b8792033b23778730986761932d21ab85730038907af487"
+file = "mods/gundb-2.2.2-1.21.1.jar"
+hash = "6b1bfce08b40448d1344e1af3247446a5ffc5177026448593f29baf7ada0d37b"
 
 [[files]]
 file = "mods/hammering-3.2.1+mc1.21.1-neoforge.jar"
@@ -1187,6 +1187,10 @@ hash = "58f6ab47c59218bdb10bb9eee1905b6cd27f3bc98d4af13982a6002a99b1d3e7"
 [[files]]
 file = "mods/tacz-pack-upgrader-2.1.3.jar"
 hash = "58d326d6c4924f4a1e8e16341b0973c9d361276adb4f2ca522d87c0b0a0f5473"
+
+[[files]]
+file = "mods/tacz-tweaks-3.0.0-alpha.10+1.21.1-neoforge.jar"
+hash = "4c2c1b778125e2fadf2fcc9e64cc8c4ec67d28316af0229dd991561d5a4f218d"
 
 [[files]]
 file = "mods/tan-compat-pack-1.0.0.jar"
