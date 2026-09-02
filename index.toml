@@ -225,10 +225,6 @@ file = "mods/Necronomicon-NeoForge-1.6.0+1.21.jar"
 hash = "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14"
 
 [[files]]
-file = "mods/NeoForge-Version-Serene Seasons Plus-1.21.1-5.1.1.jar"
-hash = "9301c4fc1077fdbf9060128c14aea60069271601b9902012fa87a634e5458afe"
-
-[[files]]
 file = "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
 hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
 
@@ -283,10 +279,6 @@ hash = "b5924d296a4a5274bca7de9c4b732a3431a5281f9de644f0e1b3212c805940bd"
 [[files]]
 file = "mods/Recipes For Create-1.2.1.jar"
 hash = "8ed8bcc07a04d35d347fcf6d47d8b399b9f766f8e51fb8a1ffc48795fa4bc756"
-
-[[files]]
-file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
-hash = "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d"
 
 [[files]]
 file = "mods/Stony Cliffs FML v1.1.2.jar"
